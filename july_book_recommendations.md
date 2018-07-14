@@ -2,14 +2,14 @@
 Where possible I've recorded the title in its original language. There are some expressions that could never be translated. 
 
 ## Jump to Continent
-* [North America][North America]
+* [North America](#na)
 * South America
 * Europe
 * Africa
 * Asia
 * Oceania
 
-## North America
+## North America <a id="na"></a>
 1. United States
    * Books from the Native American "that don't make us out to be 'savages'": 
      * Louise Erdrich, especially her book *Round House*
@@ -54,7 +54,7 @@ Where possible I've recorded the title in its original language. There are some 
 22. Saint Vincent and the Grenadines
 23. Trinidad and Tobago
 
-## South America
+## South America <a id="sa"></a>
 24. Argentina
     * *All Fires the Fire / Todos los fuegos* el fuego by Julio Cortázar
 25. Bolivia
