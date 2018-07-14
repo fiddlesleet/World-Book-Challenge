@@ -11,6 +11,11 @@ Where possible I've recorded the title in its original language. There are some 
      * Joy Harjo
      * Leonard Pelitier
      * See Birchbark Books and Native Arts for "a wonderfully curated selection that weeds out a lot of the racist or ill-informing books". 
+   * Chinese-American experience: 
+      * The Joy Luck Club by Amy Tan
+   * Life on our northern border, where next-door neighbors can live in different countries: 
+      * Border Songs by Jim Lynch
+   * Ten Days That Shook the World by John Reed, a progressive journalist from US finds himself in the middle of 1917 October Revolution
 2. Antigua and Barbuda
 3. Bahamas
 4. Barbados
@@ -18,8 +23,11 @@ Where possible I've recorded the title in its original language. There are some 
 6. Canada
    * Indian Horse by Richard Wagamese (First Nations) 
    * A House in the Sky by Amanda Lindhout
+   * A National Crime: The Canadian Government and the Residential School System, 1879 to 1986, written by John S. Milloy https://uofmpress.ca/books/detail/a-national-crime
 7. Costa Rica
 8. Cuba
+   * Waiting for Snow in Havana by Carlos Eire
+   * Dreaming In Cuban by Cristina García
 9. Dominica
    * Wild Sargasso Sea by Jean Rhys
 10. Dominican Republic
@@ -52,16 +60,20 @@ Where possible I've recorded the title in its original language. There are some 
 27. Chile
     * Pablo Neruda's poems (Nobel Laureate) 
     * Ten Women / Diez mujeres by Marcela Serrano 
+    * Anything by Isabel Allende (magical realism) 
 28. Colombia
     * 100 Years of Solitude/Cien años de soledad by Gabriel García Márquez (Nobel Laureate) 
 29. Ecuador
 30. Guyana
 31. Paraguay
 32. Peru
+    * Death in the Andes by Mario Vargas Llosa (Nobel Laureate) 
 33. Suriname
 34. Uruguay
     * Cuentos de la selva by Horacio Quiroga 
+    * The Open Veins of Latin America/Las venas abiertas de América Latina, by Eduardo Galeano
 35. Venezuela
+
 
 ### Europe
 36. Albania
@@ -70,6 +82,8 @@ Where possible I've recorded the title in its original language. There are some 
 39. Austria
 40. Azerbaijan
 41. Belarus
+    * Voices from Chernobyl by Svetlana Alexievich (Nobel Laureate) 
+    * War’s Unwomanly Face by Svetlana Alexievich (Nobel Laureate) 
 42. Belgium
 43. Bosnia and Herzegovina
 44. Bulgaria
@@ -83,9 +97,13 @@ Where possible I've recorded the title in its original language. There are some 
 48. Denmark
 49. Estonia
 50. Finland
+    * The Nordic Theory of Everything: In Search of a Better Life by Anu Partanen (3 votes) 
 51. France
     * The Little Prince / Le petit prince 
-    * Murder in the Marais (NOTE: American author, but takes place in France) 
+    * The End of Eddy by Edouard Louis
+    * Take place in France, by American authors: 
+       * Murder in the Marais (NOTE: American author, but takes place in France)
+       * The Only Road in Paris by Elaine Sciolino 
 52. Georgia
 53. Germany
 54. Greece
@@ -111,7 +129,8 @@ Where possible I've recorded the title in its original language. There are some 
 72. Poland
 73. Portugal
     * Galveias by José Luis Peixoto 
-    * Blindness: Ensaio sobre a cegueira by José Saramago 
+    * Blindness / Ensaio sobre a cegueira by José Saramago (2 votes) 
+    * The Gospel According to Jesus Christ by José Saramago 
 74. Romania
 75. Russia
 76. San Marino
@@ -126,6 +145,7 @@ Where possible I've recorded the title in its original language. There are some 
 83. Turkey
 84. Ukraine
 85. United Kingdom
+    * The Year of Living Danishly by Helen Russell 
 86. Vatican City
 
 ### Africa
@@ -171,6 +191,7 @@ Where possible I've recorded the title in its original language. There are some 
 124. Niger
 125. Nigeria
      * Anything by Chimamanda Ngozi Adichie
+     * Things Fall Apart by Chinua Achebe
 126. Rwanda
 127. Sao Tome and Principe
 128. Senegal
@@ -203,6 +224,7 @@ Where possible I've recorded the title in its original language. There are some 
      * Survivor: The Triumph of an Ordinary Man in the Khmer Rouge Genocide, written by Chum Mey. He's one of the two living survivors of the Khmer Rouge Genocide. The person who recommended this book got to meet him at the s21 museum in Cambodia! 
 150. China
      * Do Not Say We Have Nothing by Madeleine Thien (Canadian-born daughter of Malaysian Chinese father and Hong Kong Chinese mother). 
+     * The Rape of Nanking: The Forgotten Holocaust of World War II by Iris Chang (American-born daughter of two Taiwanese immigrants)  
 151. Cyprus
 152. Georgia
 153. India
@@ -213,7 +235,7 @@ Where possible I've recorded the title in its original language. There are some 
         * The Twentieth Wife (part 1) 
         * The Feast of Roses (part 2) 
         * Shadow Princess by Indu Sundaresan 
-     * The God of Small Things by Arundhati Roy
+     * The God of Small Things by Arundhati Roy (2 votes) 
 154. Indonesia
 155. Iran
      * Persepolis, a comic book written by an Iranian woman
@@ -243,6 +265,7 @@ Where possible I've recorded the title in its original language. There are some 
 177. Saudi Arabia
 178. Singapore
 179. South Korea
+     * The Vegetarian by Han Kang
 180. Sri Lanka
 181. Syria
 182. Taiwan
@@ -251,10 +274,14 @@ Where possible I've recorded the title in its original language. There are some 
 185. Timor-Leste
 186. Turkey
      * Anything by Orhan Pamuk
+     * Memed, My Hawk by Yaşar Kemal
 187. Turkmenistan
 188. United Arab Emirates (UAE)
 189. Uzbekistan
 190. Vietnam
+     * Anything by Thanhha Lai (children's author) 
+     * The Sympathizer by Viet Thanh Nguyen (2016 Pulitzer Prize winner // 2017 MacArthur Genius Grant winner) (2 votes)
+     * Stealing Buddha's Dinner, by Bich Minh Nguyen
 191. Yemen
 
 ### Oceania 
@@ -262,6 +289,7 @@ Where possible I've recorded the title in its original language. There are some 
      * The Book Thief by Markus Zusak
      * Storm Boy by Colin Thiele (children's) 
      * Hitler's Daughter by Jackie French (children's)
+     * Marching Powder by Rusty Young, on the true story of a British-Tanzanian man incarcerated in Bolivia's San Pedro prison
 193. Fiji
 194. Kiribati
 195. Marshall Islands
