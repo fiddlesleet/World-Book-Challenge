@@ -2,11 +2,11 @@
 Where possible I've recorded the title in its original language. There are some expressions that could never be translated. 
 
 ## Jump to Continent
-###[North America](#na)
-###[South America](#sa)
-###[Europe](#e)
-###[Africa](#af)
-###[Asia](#as)
+### [North America](#na)
+### [South America](#sa)
+### [Europe](#e)
+### [Africa](#af)
+### [Asia](#as)
 ### [Oceania](#oc)
 
 ## North America <a id="na"></a>
