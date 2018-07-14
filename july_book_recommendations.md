@@ -2,12 +2,12 @@
 Where possible I've recorded the title in its original language. There are some expressions that could never be translated. 
 
 ## Jump to Continent
-* [North America](#na)
-* South America
-* Europe
-* Africa
-* Asia
-* Oceania
+###[North America](#na)
+###[South America](#sa)
+###[Europe](#e)
+###[Africa](#af)
+###[Asia](#as)
+### [Oceania](#oc)
 
 ## North America <a id="na"></a>
 1. United States
@@ -83,7 +83,7 @@ Where possible I've recorded the title in its original language. There are some 
     * *The Open Veins of Latin America/Las venas abiertas de América Latina*, by Eduardo Galeano
 35. Venezuela
 
-## Europe
+## Europe <a id="e"></a>
 36. Albania
 37. Andorra
 38. Armenia
@@ -156,7 +156,7 @@ Where possible I've recorded the title in its original language. There are some 
 85. United Kingdom
 86. Vatican City
 
-## Africa
+## Africa <a id="af"></a>
 87. Algeria
 88. Angola
 89. Benin
@@ -217,7 +217,7 @@ Where possible I've recorded the title in its original language. There are some 
 140. Zambia
 141. Zimbabwe
 
-## Asia
+## Asia <a id="as"></a>
 142. Afghanistan
     * *The Kite Runner*
     * *A Thousand Splendid Suns*
@@ -292,7 +292,7 @@ Where possible I've recorded the title in its original language. There are some 
      * *Stealing Buddha's Dinner*, by Bich Minh Nguyen
 191. Yemen
 
-## Oceania 
+## Oceania <a id="oc"></a>
 192. Australia
      * *The Book Thief* by Markus Zusak
      * *Storm Boy* by Colin Thiele (children's) 
