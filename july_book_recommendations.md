@@ -1,5 +1,5 @@
 ## World Book Challenge
-
+Where possible I've recorded the title in its original language. There are some expressions that could never be translated. 
 
 ### North America
 1. United States
@@ -8,9 +8,11 @@
 4. Barbados
 5. Belize
 6. Canada
+   * Indian Horse by Richard Wagamese (First Nations) 
 7. Costa Rica
 8. Cuba
 9. Dominica
+   * Wild Sargasso Sea by Jean Rhys
 10. Dominican Republic
 11. El Salvador
 12. Grenada
@@ -34,6 +36,7 @@
 26. Brazil
 27. Chile
     * Pablo Neruda's poems (Nobel Laureate) 
+    * Ten Women / Diez mujeres by Marcela Serrano 
 28. Colombia
     * 100 Years of Solitude/Cien años de soledad by Gabriel García Márquez (Nobel Laureate) 
 29. Ecuador
@@ -57,6 +60,7 @@
 45. Croatia
 46. Cyprus
 47. Czech Republic
+    * To the Castle and Back by Vaclav Havel, a playwright by trade who became the first president of Czechoslovakia after communism. 
 48. Denmark
 49. Estonia
 50. Finland
@@ -64,6 +68,7 @@
 52. Georgia
 53. Germany
 54. Greece
+    * The House by the River by Lena Manta
 55. Hungary
 56. Iceland
 57. Ireland
@@ -169,6 +174,7 @@
 147. Bhutan
 148. Brunei
 149. Cambodia
+     * First They Killed My Father: A Daughter of Cambodia Remembers by Loung Ung
 150. China
 151. Cyprus
 152. Georgia
@@ -217,6 +223,8 @@
 
 ### Oceania 
 192. Australia
+     * The Book Thief by Markus Zusak
+     * Storm Boy by Colin Theiele
 193. Fiji
 194. Kiribati
 195. Marshall Islands
