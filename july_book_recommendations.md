@@ -3,6 +3,13 @@ Where possible I've recorded the title in its original language. There are some 
 
 ### North America
 1. United States
+   * Native American Authors: 
+     * Louise Erdrich
+     * Linda Hogan
+     * James Welch
+     * Susan Power
+     * Joy Harjo
+     * Leonard Pelitier
 2. Antigua and Barbuda
 3. Bahamas
 4. Barbados
@@ -58,6 +65,9 @@ Where possible I've recorded the title in its original language. There are some 
 43. Bosnia and Herzegovina
 44. Bulgaria
 45. Croatia
+    * Croatian Tales of Long Ago, https://en.wikipedia.org/wiki/Croatian_Tales_of_Long_Ago
+    * Anything by Ivana Brlic Mazuranic
+    * Anything by Ivo Andrić--a fair bit of his work has been translated into English
 46. Cyprus
 47. Czech Republic
     * To the Castle and Back by Vaclav Havel, a playwright by trade who became the first president of Czechoslovakia after communism. 
@@ -65,6 +75,7 @@ Where possible I've recorded the title in its original language. There are some 
 49. Estonia
 50. Finland
 51. France
+    * The Little Prince / Le petit prince 
 52. Georgia
 53. Germany
 54. Greece
@@ -224,7 +235,8 @@ Where possible I've recorded the title in its original language. There are some 
 ### Oceania 
 192. Australia
      * The Book Thief by Markus Zusak
-     * Storm Boy by Colin Theiele
+     * Storm Boy by Colin Thiele (children's) 
+     * Hitler's Daughter by Jackie French (children's)
 193. Fiji
 194. Kiribati
 195. Marshall Islands
