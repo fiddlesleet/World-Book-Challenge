@@ -16,6 +16,7 @@
 12. Grenada
 13. Guatemala
 14. Haiti
+    * Gouverneurs de la Rosée
 15. Honduras
 16. Jamaica
 17. Mexico
@@ -79,7 +80,7 @@
 71. Norway
 72. Poland
 73. Portugal
-  * Galveias by José Luis Peixoto 
+    * Galveias by José Luis Peixoto 
 74. Romania
 75. Russia
 76. San Marino
@@ -130,6 +131,7 @@
 119. Mauritania
 120. Mauritius
 121. Morocco
+     * Enfant de Sable
 122. Mozambique
 123. Namibia
 124. Niger
@@ -175,6 +177,7 @@
 162. Kyrgyzstan
 163. Laos
 164. Lebanon
+     * What Makes a Man?: Sex Talk in Beirut and Berlin https://www.amazon.com/What-Makes-Man-Literature-Translation/dp/B01D94AJQI (one author is German, the other Lebanese) 
 165. Malaysia
 166. Maldives
 167. Mongolia
