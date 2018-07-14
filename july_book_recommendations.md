@@ -32,64 +32,64 @@ Where possible I've recorded the title in its original language. There are some 
    * *Indian Horse* by Richard Wagamese (First Nations) 
    * *A House in the Sky* by Amanda Lindhout
    * *A National Crime: The Canadian Government and the Residential School System, 1879 to 1986*, by John S. Milloy https://uofmpress.ca/books/detail/a-national-crime
-7. Costa Rica
-8. Cuba
+1. Costa Rica
+1. Cuba
    * *Waiting for Snow in Havana* by Carlos Eire
    * *Dreaming In Cuban* by Cristina García
-9. Dominica
+1. Dominica
    * *Wild Sargasso Sea* by Jean Rhys
-10. Dominican Republic
-11. El Salvador
-12. Grenada
-13. Guatemala
-14. Haiti
+1. Dominican Republic
+1. El Salvador
+1. Grenada
+1. Guatemala
+1. Haiti
     * *Gouverneurs de la Rosée* by Jacques Roumain
-15. Honduras
-16. Jamaica
-17. Mexico
-18. Nicaragua
-19. Panama
-20. Saint Kitts and Nevis
-21. Saint Lucia
-22. Saint Vincent and the Grenadines
-23. Trinidad and Tobago
+1. Honduras
+1. Jamaica
+1. Mexico
+1. Nicaragua
+1. Panama
+1. Saint Kitts and Nevis
+1. Saint Lucia
+1. Saint Vincent and the Grenadines
+1. Trinidad and Tobago
 
 ## South America <a id="sa"></a>
-24. Argentina
+1. Argentina
     * *All Fires the Fire / Todos los fuegos* el fuego by Julio Cortázar
-25. Bolivia
+1. Bolivia
     * *Marching Powder* by Rusty Young (Australian author), on the true story of a British-Tanzanian man incarcerated in Bolivia's San Pedro prison
-26. Brazil
+1. Brazil
     * Classic Literature: 
        * *Memórias Póstumas de Brás Cubas* by Machado de Assis 
        * *Dom Casmurro* by Machado de Assis 
     * Modern Literature: 
        * *Cinzas do Norte* by Milton Hatoum (2005) 
        * *The Alchemist* by Paulo Cuehlo
-27. Chile
+1. Chile
     * Pablo Neruda's poems (Nobel Laureate) 
     * *Ten Women / Diez mujeres* by Marcela Serrano 
     * Anything by Isabel Allende (magical realism) 
-28. Colombia
+1. Colombia
     * *100 Years of Solitude/Cien años de soledad* by Gabriel García Márquez (Nobel Laureate) 
-29. Ecuador
-30. Guyana
-31. Paraguay
-32. Peru
+1. Ecuador
+1. Guyana
+1. Paraguay
+1. Peru
     * *Death in the Andes* by Mario Vargas Llosa (Nobel Laureate) 
-33. Suriname
-34. Uruguay
+1. Suriname
+1. Uruguay
     * *Jungle Tales/Cuentos de la selva* by Horacio Quiroga 
     * *The Open Veins of Latin America/Las venas abiertas de América Latina*, by Eduardo Galeano
-35. Venezuela
+1. Venezuela
 
 ## Europe <a id="e"></a>
-36. Albania
-37. Andorra
-38. Armenia
-39. Austria
-40. Azerbaijan
-41. Belarus
+1. Albania
+1. Andorra
+1. Armenia
+1. Austria
+1. Azerbaijan
+1. Belarus
     * *Voices from Chernobyl* by Svetlana Alexievich (Nobel Laureate) 
     * *War’s Unwomanly Face* by Svetlana Alexievich (Nobel Laureate) 
 42. Belgium
