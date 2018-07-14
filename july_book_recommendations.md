@@ -2,96 +2,96 @@
 
 
 ### North America
-Antigua and Barbuda
-Bahamas
-Barbados
-Belize
-Canada
-Costa Rica
-Cuba
-Dominica
-Dominican Republic
-El Salvador
-Grenada
-Guatemala
-Haiti
-Honduras
-Jamaica
-Mexico
-Nicaragua
-Panama
-Saint Kitts and Nevis
-Saint Lucia
-Saint Vincent and the Grenadines
-Trinidad and Tobago
-United States of America (USA)
+1. United States
+2. Antigua and Barbuda
+3. Bahamas
+4. Barbados
+5. Belize
+6. Canada
+7. Costa Rica
+8. Cuba
+9. Dominica
+10. Dominican Republic
+11. El Salvador
+12. Grenada
+13. Guatemala
+14. Haiti
+15. Honduras
+16. Jamaica
+17. Mexico
+18. Nicaragua
+19. Panama
+20. Saint Kitts and Nevis
+21. Saint Lucia
+22. Saint Vincent and the Grenadines
+23. Trinidad and Tobago
 
 ### South America
-Argentina
-Bolivia
-Brazil
-Chile
-Colombia
-Ecuador
-Guyana
-Paraguay
-Peru
-Suriname
-Uruguay
-Venezuela
+24. Argentina
+25. Bolivia
+26. Brazil
+27. Chile
+28. Colombia
+29. Ecuador
+30. Guyana
+31. Paraguay
+32. Peru
+33. Suriname
+34. Uruguay
+35. Venezuela
 
 ### Europe
-Albania
-Andorra
-Armenia
-Austria
-Azerbaijan
-Belarus
-Belgium
-Bosnia and Herzegovina
-Bulgaria
-Croatia
-Cyprus
-Czech Republic
-Denmark
-Estonia
-Finland
-France
-Georgia
-Germany
-Greece
-Hungary
-Iceland
-Ireland
-Italy
-Kazakhstan
-Kosovo
-Latvia
-Liechtenstein
-Lithuania
-Luxembourg
-Macedonia (FYROM)
-Malta
-Moldova
-Monaco
-Montenegro
-Netherlands
-Norway
-Poland
-Portugal
-Romania
-Russia
-San Marino
-Serbia
-Slovakia
-Slovenia
-Spain
-Sweden
-Switzerland
-Turkey
-Ukraine
-United Kingdom (UK)
-Vatican City (Holy See)
+36. Albania
+37. Andorra
+38. Armenia
+39. Austria
+40. Azerbaijan
+41. Belarus
+42. Belgium
+43. Bosnia and Herzegovina
+44. Bulgaria
+45. Croatia
+46. Cyprus
+47. Czech Republic
+48. Denmark
+49. Estonia
+50. Finland
+51. France
+52. Georgia
+53. Germany
+54. Greece
+55. Hungary
+56. Iceland
+57. Ireland
+58. Italy
+59. Kazakhstan
+60. Kosovo
+61. Latvia
+62. Liechtenstein
+63. Lithuania
+64. Luxembourg
+65. Macedonia (FYROM)
+66. Malta
+67. Moldova
+68. Monaco
+69. Montenegro
+70. Netherlands
+71. Norway
+72. Poland
+73. Portugal
+74. Romania
+75. Russia
+76. San Marino
+77. Serbia
+78. Slovakia
+79. Slovenia
+80. Spain
+81. Sweden
+82. Switzerland
+83. Turkey
+84. Ukraine
+85. United Kingdom
+86. Vatican City
 
 ### Africa
 Algeria
