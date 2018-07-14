@@ -1,5 +1,5 @@
 # World Book Challenge
-43 people chimed in with recommendations for tales from 36 countries. Where possible I've recorded the title in both English and its original language. If you can read the book in its original language, go for it! There are some expressions that could never be translated. 
+July 2018: 43 people chimed in with recommendations for tales from 36 countries. Where possible I've recorded the title in both English and its original language. If you can read the book in its original language, go for it! There are some expressions that could never be translated. 
 
 There are 205 countries on this list, though, and I'm just getting started filling it in. I guess that means I need to travel more, make more friends, reach out to more people for recommendations, and if all else fails, Google more. =)
 
@@ -63,10 +63,10 @@ There are 205 countries on this list, though, and I'm just getting started filli
    * *Marching Powder* by Rusty Young (Australian author), on the true story of a British-Tanzanian man incarcerated in Bolivia's San Pedro prison
 1. Brazil
    * Classic Literature: 
-       * *Memórias Póstumas de Brás Cubas* by Machado de Assis 
+       * *The Posthumous Memoirs of Bras Cubas: the Epitaph of a Small Winner // Memórias Póstumas de Brás Cubas* by Machado de Assis 
        * *Dom Casmurro* by Machado de Assis 
    * Modern Literature: 
-       * *Cinzas do Norte* by Milton Hatoum (2005) 
+       * *Ashes of the Amazon / Cinzas do Norte* by Milton Hatoum (2005) 
        * *The Alchemist* by Paulo Cuehlo
 1. Chile
    * Pablo Neruda's poems (Nobel Laureate) 
@@ -78,7 +78,7 @@ There are 205 countries on this list, though, and I'm just getting started filli
 1. Guyana
 1. Paraguay
 1. Peru
-   * *Death in the Andes* by Mario Vargas Llosa (Nobel Laureate) 
+   * *Death in the Andes / Lituma en los Andes* by Mario Vargas Llosa (Nobel Laureate) 
 1. Suriname
 1. Uruguay
    * *Jungle Tales/Cuentos de la selva* by Horacio Quiroga 
@@ -92,7 +92,6 @@ There are 205 countries on this list, though, and I'm just getting started filli
 1. Austria
 1. Azerbaijan
 1. Belarus
-   * *Voices from Chernobyl* by Svetlana Alexievich (Nobel Laureate) 
    * *War’s Unwomanly Face* by Svetlana Alexievich (Nobel Laureate) 
 1. Belgium
 1. Bosnia and Herzegovina
@@ -156,6 +155,7 @@ There are 205 countries on this list, though, and I'm just getting started filli
 1. Switzerland
 1. Turkey
 1. Ukraine
+   * *Voices from Chernobyl* by Svetlana Alexievich (Nobel Laureate; she's a Belarusian author but the reporting takes place mostly in Ukraine) 
 1. United Kingdom
 1. Vatican City
 
