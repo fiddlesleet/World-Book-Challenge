@@ -1,7 +1,7 @@
-## World Book Challenge
+# World Book Challenge
 Where possible I've recorded the title in its original language. There are some expressions that could never be translated. 
 
-### North America
+## North America
 1. United States
    * Books from the Native American "that don't make us out to be 'savages'": 
      * Louise Erdrich, especially her book *Round House*
@@ -46,7 +46,7 @@ Where possible I've recorded the title in its original language. There are some 
 22. Saint Vincent and the Grenadines
 23. Trinidad and Tobago
 
-### South America
+## South America
 24. Argentina
     * *All Fires the Fire / Todos los fuegos* el fuego by Julio Cortázar
 25. Bolivia
@@ -75,8 +75,7 @@ Where possible I've recorded the title in its original language. There are some 
     * *The Open Veins of Latin America/Las venas abiertas de América Latina*, by Eduardo Galeano
 35. Venezuela
 
-
-### Europe
+## Europe
 36. Albania
 37. Andorra
 38. Armenia
@@ -149,7 +148,7 @@ Where possible I've recorded the title in its original language. There are some 
 85. United Kingdom
 86. Vatican City
 
-### Africa
+## Africa
 87. Algeria
 88. Angola
 89. Benin
@@ -210,7 +209,7 @@ Where possible I've recorded the title in its original language. There are some 
 140. Zambia
 141. Zimbabwe
 
-### Asia
+## Asia
 142. Afghanistan
     * *The Kite Runner*
     * *A Thousand Splendid Suns*
@@ -285,7 +284,7 @@ Where possible I've recorded the title in its original language. There are some 
      * *Stealing Buddha's Dinner*, by Bich Minh Nguyen
 191. Yemen
 
-### Oceania 
+## Oceania 
 192. Australia
      * *The Book Thief* by Markus Zusak
      * *Storm Boy* by Colin Thiele (children's) 
