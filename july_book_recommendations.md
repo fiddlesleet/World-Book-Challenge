@@ -24,8 +24,8 @@ Where possible I've recorded the title in its original language. There are some 
    * Life on our northern border, where next-door neighbors can live in different countries: 
       * *Border Songs* by Jim Lynch
    * *Ten Days That Shook the World* by John Reed, a progressive journalist from US finds himself in the middle of 1917 October Revolution
-2. Antigua and Barbuda
-3. Bahamas
+1. Antigua and Barbuda
+1. Bahamas
 4. Barbados
 5. Belize
 6. Canada
