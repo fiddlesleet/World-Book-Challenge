@@ -50,6 +50,7 @@ Where possible I've recorded the title in its original language. There are some 
 24. Argentina
     * *All Fires the Fire / Todos los fuegos* el fuego by Julio Cortázar
 25. Bolivia
+    * *Marching Powder* by Rusty Young (Australian author), on the true story of a British-Tanzanian man incarcerated in Bolivia's San Pedro prison
 26. Brazil
     * Classic Literature: 
        * *Memórias Póstumas de Brás Cubas* by Machado de Assis 
@@ -289,7 +290,6 @@ Where possible I've recorded the title in its original language. There are some 
      * *The Book Thief* by Markus Zusak
      * *Storm Boy* by Colin Thiele (children's) 
      * *Hitler's Daughter* by Jackie French (children's)
-     * *Marching Powder* by Rusty Young, on the true story of a British-Tanzanian man incarcerated in Bolivia's San Pedro prison
 193. Fiji
 194. Kiribati
 195. Marshall Islands
