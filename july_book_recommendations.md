@@ -4,7 +4,7 @@ Where possible I've recorded the title in its original language. There are some 
 ### North America
 1. United States
    * Books from the Native American "that don't make us out to be 'savages'": 
-     * Louise Erdrich, especially her book Round House
+     * Louise Erdrich, especially her book *Round House*
      * Linda Hogan
      * James Welch
      * Susan Power
@@ -12,30 +12,30 @@ Where possible I've recorded the title in its original language. There are some 
      * Leonard Pelitier
      * See Birchbark Books and Native Arts for "a wonderfully curated selection that weeds out a lot of the racist or ill-informing books". 
    * Chinese-American experience: 
-      * The Joy Luck Club by Amy Tan
+      * *The Joy Luck Club* by Amy Tan
    * Life on our northern border, where next-door neighbors can live in different countries: 
-      * Border Songs by Jim Lynch
-   * Ten Days That Shook the World by John Reed, a progressive journalist from US finds himself in the middle of 1917 October Revolution
+      * *Border Songs* by Jim Lynch
+   * *Ten Days That Shook the World* by John Reed, a progressive journalist from US finds himself in the middle of 1917 October Revolution
 2. Antigua and Barbuda
 3. Bahamas
 4. Barbados
 5. Belize
 6. Canada
-   * Indian Horse by Richard Wagamese (First Nations) 
-   * A House in the Sky by Amanda Lindhout
-   * A National Crime: The Canadian Government and the Residential School System, 1879 to 1986, written by John S. Milloy https://uofmpress.ca/books/detail/a-national-crime
+   * *Indian Horse* by Richard Wagamese (First Nations) 
+   * *A House in the Sky* by Amanda Lindhout
+   * *A National Crime: The Canadian Government and the Residential School System, 1879 to 1986*, by John S. Milloy https://uofmpress.ca/books/detail/a-national-crime
 7. Costa Rica
 8. Cuba
-   * Waiting for Snow in Havana by Carlos Eire
-   * Dreaming In Cuban by Cristina García
+   * *Waiting for Snow in Havana* by Carlos Eire
+   * *Dreaming In Cuban* by Cristina García
 9. Dominica
-   * Wild Sargasso Sea by Jean Rhys
+   * *Wild Sargasso Sea* by Jean Rhys
 10. Dominican Republic
 11. El Salvador
 12. Grenada
 13. Guatemala
 14. Haiti
-    * Gouverneurs de la Rosée
+    * *Gouverneurs de la Rosée* by Jacques Roumain
 15. Honduras
 16. Jamaica
 17. Mexico
@@ -48,30 +48,30 @@ Where possible I've recorded the title in its original language. There are some 
 
 ### South America
 24. Argentina
-    * Todos los fuegos el fuego 
+    * *All Fires the Fire / Todos los fuegos* el fuego by Julio Cortázar
 25. Bolivia
 26. Brazil
     * Classic Literature: 
-       * Memórias Póstumas de Brás Cubas by Machado de Assis 
-       * Dom Casmurro by Machado de Assis 
+       * *Memórias Póstumas de Brás Cubas* by Machado de Assis 
+       * *Dom Casmurro* by Machado de Assis 
     * Modern Literature: 
-       * Cinzas do Norte by Milton Hatoum (2005) 
-       * The Alchemist by Paulo Cuehlo
+       * *Cinzas do Norte* by Milton Hatoum (2005) 
+       * *The Alchemist* by Paulo Cuehlo
 27. Chile
     * Pablo Neruda's poems (Nobel Laureate) 
-    * Ten Women / Diez mujeres by Marcela Serrano 
+    * *Ten Women / Diez mujeres* by Marcela Serrano 
     * Anything by Isabel Allende (magical realism) 
 28. Colombia
-    * 100 Years of Solitude/Cien años de soledad by Gabriel García Márquez (Nobel Laureate) 
+    * *100 Years of Solitude/Cien años de soledad* by Gabriel García Márquez (Nobel Laureate) 
 29. Ecuador
 30. Guyana
 31. Paraguay
 32. Peru
-    * Death in the Andes by Mario Vargas Llosa (Nobel Laureate) 
+    * *Death in the Andes* by Mario Vargas Llosa (Nobel Laureate) 
 33. Suriname
 34. Uruguay
-    * Cuentos de la selva by Horacio Quiroga 
-    * The Open Veins of Latin America/Las venas abiertas de América Latina, by Eduardo Galeano
+    * *Jungle Tales/Cuentos de la selva* by Horacio Quiroga 
+    * *The Open Veins of Latin America/Las venas abiertas de América Latina*, by Eduardo Galeano
 35. Venezuela
 
 
@@ -82,33 +82,33 @@ Where possible I've recorded the title in its original language. There are some 
 39. Austria
 40. Azerbaijan
 41. Belarus
-    * Voices from Chernobyl by Svetlana Alexievich (Nobel Laureate) 
-    * War’s Unwomanly Face by Svetlana Alexievich (Nobel Laureate) 
+    * *Voices from Chernobyl* by Svetlana Alexievich (Nobel Laureate) 
+    * *War’s Unwomanly Face* by Svetlana Alexievich (Nobel Laureate) 
 42. Belgium
 43. Bosnia and Herzegovina
 44. Bulgaria
 45. Croatia
-    * Croatian Tales of Long Ago, https://en.wikipedia.org/wiki/Croatian_Tales_of_Long_Ago
+    * *Croatian Tales of Long Ago*, https://en.wikipedia.org/wiki/Croatian_Tales_of_Long_Ago
     * Anything by Ivana Brlic Mazuranic
     * Anything by Ivo Andrić--a fair bit of his work has been translated into English
 46. Cyprus
 47. Czech Republic
-    * To the Castle and Back by Vaclav Havel, a playwright by trade who became the first president of Czechoslovakia after communism. 
+    * *To the Castle and Back* by Vaclav Havel, a playwright by trade who became the first president of Czechoslovakia after communism. 
 48. Denmark
-    * The Year of Living Danishly by Helen Russell, from a British author on her experience living in rural Jutland
+    * *The Year of Living Danishly* by Helen Russell, from a British author on her experience living in rural Jutland
 49. Estonia
 50. Finland
-    * The Nordic Theory of Everything: In Search of a Better Life by Anu Partanen (3 votes) 
+    * *The Nordic Theory of Everything: In Search of a Better Life* by Anu Partanen (3 votes) 
 51. France
-    * The Little Prince / Le petit prince 
-    * The End of Eddy by Edouard Louis
+    * *The Little Prince / Le petit prince*
+    * *The End of Eddy* by Edouard Louis
     * Take place in France, by American authors: 
-       * Murder in the Marais (NOTE: American author, but takes place in France)
-       * The Only Road in Paris by Elaine Sciolino 
+       * *Murder in the Marais* 
+       * *The Only Road in Paris* by Elaine Sciolino 
 52. Georgia
 53. Germany
 54. Greece
-    * The House by the River by Lena Manta
+    * *The House by the River* by Lena Manta
 55. Hungary
 56. Iceland
 57. Ireland
@@ -129,9 +129,9 @@ Where possible I've recorded the title in its original language. There are some 
 71. Norway
 72. Poland
 73. Portugal
-    * Galveias by José Luis Peixoto 
-    * Blindness / Ensaio sobre a cegueira by José Saramago (2 votes) 
-    * The Gospel According to Jesus Christ by José Saramago 
+    * *Galveias* by José Luis Peixoto 
+    * *Blindness / Ensaio sobre a cegueira* by José Saramago (2 votes) 
+    * *The Gospel According to Jesus Christ* by José Saramago 
 74. Romania
 75. Russia
 76. San Marino
@@ -139,8 +139,8 @@ Where possible I've recorded the title in its original language. There are some 
 78. Slovakia
 79. Slovenia
 80. Spain
-    * Don Quijote de la Mancha
-    * The Shadow of the Wind by Carlos Ruiz Zafón (from Catalonia--the NYT describes it as ""Gabriel García Márquez meets Umberto Eco meets Jorge Luis Borges for a sprawling magic show.") 
+    * *Don Quijote* de la Mancha
+    * *The Shadow of the Wind* by Carlos Ruiz Zafón (from Catalonia--the NYT describes it as ""Gabriel García Márquez meets Umberto Eco meets Jorge Luis Borges for a sprawling magic show.") 
 81. Sweden
 82. Switzerland
 83. Turkey
@@ -165,7 +165,7 @@ Where possible I've recorded the title in its original language. There are some 
 100. Cote d'Ivoire
 101. Djibouti
 102. Egypt
-     * The Yacoubian Building
+     * *The Yacoubian Building* by Alaa-Al-Aswany
 103. Equatorial Guinea
 104. Eritrea
 105. Eswatini (formerly Swaziland)
@@ -185,13 +185,13 @@ Where possible I've recorded the title in its original language. There are some 
 119. Mauritania
 120. Mauritius
 121. Morocco
-     * Enfant de Sable
+     * Enfant de Sable by Tahar Ben Jelloun
 122. Mozambique
 123. Namibia
 124. Niger
 125. Nigeria
      * Anything by Chimamanda Ngozi Adichie
-     * Things Fall Apart by Chinua Achebe
+     * *Things Fall Apart* by Chinua Achebe
 126. Rwanda
 127. Sao Tome and Principe
 128. Senegal
@@ -211,8 +211,8 @@ Where possible I've recorded the title in its original language. There are some 
 
 ### Asia
 142. Afghanistan
-    * The Kite Runner
-    * A Thousand Splendid Suns
+    * *The Kite Runner*
+    * *A Thousand Splendid Suns*
 143. Armenia
 144. Azerbaijan
 145. Bahrain
@@ -220,25 +220,25 @@ Where possible I've recorded the title in its original language. There are some 
 147. Bhutan
 148. Brunei
 149. Cambodia
-     * First They Killed My Father: A Daughter of Cambodia Remembers by Loung Ung
-     * Survivor: The Triumph of an Ordinary Man in the Khmer Rouge Genocide, written by Chum Mey. He's one of the two living survivors of the Khmer Rouge Genocide. The person who recommended this book got to meet him at the s21 museum in Cambodia! 
+     * *First They Killed My Father: A Daughter of Cambodia Remembers* by Loung Ung
+     * *Survivor: The Triumph of an Ordinary Man in the Khmer Rouge Genocide*, written by Chum Mey. He's one of the two living survivors of the Khmer Rouge Genocide. The person who recommended this book got to meet him at the s21 museum in Cambodia! 
 150. China
-     * Do Not Say We Have Nothing by Madeleine Thien (Canadian-born daughter of Malaysian Chinese father and Hong Kong Chinese mother). 
-     * The Rape of Nanking: The Forgotten Holocaust of World War II by Iris Chang (American-born daughter of two Taiwanese immigrants)  
+     * *Do Not Say We Have Nothing* by Madeleine Thien (Canadian-born daughter of Malaysian Chinese father and Hong Kong Chinese mother). 
+     * *The Rape of Nanking: The Forgotten Holocaust of World War II* by Iris Chang (American-born daughter of two Taiwanese immigrants)  
 151. Cyprus
 152. Georgia
 153. India
      * Anything by Jhumpa Lahiri
      * Anything by Vikram Seth
-     * Midnight's Children by Salman Rushdie
+     * *Midnight's Children* by Salman Rushdie
      * Historical fiction on the Mughal Empire: 
         * The Twentieth Wife (part 1) 
         * The Feast of Roses (part 2) 
         * Shadow Princess by Indu Sundaresan 
-     * The God of Small Things by Arundhati Roy (2 votes) 
+     * *The God of Small Things* by Arundhati Roy (2 votes) 
 154. Indonesia
 155. Iran
-     * Persepolis, a comic book written by an Iranian woman
+     * *Persepolis*, a comic book written by an Iranian woman
 156. Iraq
 157. Israel
 158. Japan
@@ -248,8 +248,8 @@ Where possible I've recorded the title in its original language. There are some 
 162. Kyrgyzstan
 163. Laos
 164. Lebanon
-     * What Makes a Man?: Sex Talk in Beirut and Berlin https://www.amazon.com/What-Makes-Man-Literature-Translation/dp/B01D94AJQI (one author is German, the other Lebanese) 
-     * An Uncessary Woman
+     * *What Makes a Man?: Sex Talk in Beirut and Berlin* https://www.amazon.com/What-Makes-Man-Literature-Translation/dp/B01D94AJQI (one author is German, the other Lebanese) 
+     * *An Uncessary Woman*
 165. Malaysia
 166. Maldives
 167. Mongolia
@@ -265,7 +265,7 @@ Where possible I've recorded the title in its original language. There are some 
 177. Saudi Arabia
 178. Singapore
 179. South Korea
-     * The Vegetarian by Han Kang
+     * *The Vegetarian* by Han Kang
 180. Sri Lanka
 181. Syria
 182. Taiwan
@@ -274,22 +274,22 @@ Where possible I've recorded the title in its original language. There are some 
 185. Timor-Leste
 186. Turkey
      * Anything by Orhan Pamuk
-     * Memed, My Hawk by Yaşar Kemal
+     * *Memed, My Hawk* by Yaşar Kemal
 187. Turkmenistan
 188. United Arab Emirates (UAE)
 189. Uzbekistan
 190. Vietnam
      * Anything by Thanhha Lai (children's author) 
-     * The Sympathizer by Viet Thanh Nguyen (2016 Pulitzer Prize winner // 2017 MacArthur Genius Grant winner) (2 votes)
-     * Stealing Buddha's Dinner, by Bich Minh Nguyen
+     * *The Sympathizer* by Viet Thanh Nguyen (2016 Pulitzer Prize winner // 2017 MacArthur Genius Grant winner) (2 votes)
+     * *Stealing Buddha's Dinner*, by Bich Minh Nguyen
 191. Yemen
 
 ### Oceania 
 192. Australia
-     * The Book Thief by Markus Zusak
-     * Storm Boy by Colin Thiele (children's) 
-     * Hitler's Daughter by Jackie French (children's)
-     * Marching Powder by Rusty Young, on the true story of a British-Tanzanian man incarcerated in Bolivia's San Pedro prison
+     * *The Book Thief* by Markus Zusak
+     * *Storm Boy* by Colin Thiele (children's) 
+     * *Hitler's Daughter* by Jackie French (children's)
+     * *Marching Powder* by Rusty Young, on the true story of a British-Tanzanian man incarcerated in Bolivia's San Pedro prison
 193. Fiji
 194. Kiribati
 195. Marshall Islands
