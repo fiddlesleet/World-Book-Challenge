@@ -29,10 +29,13 @@
 
 ### South America
 24. Argentina
+    * Todos los fuegos el fuego 
 25. Bolivia
 26. Brazil
 27. Chile
+    * Pablo Neruda's poems (Nobel Laureate) 
 28. Colombia
+    * 100 Years of Solitude/Cien años de soledad by Gabriel García Márquez (Nobel Laureate) 
 29. Ecuador
 30. Guyana
 31. Paraguay
@@ -81,6 +84,7 @@
 72. Poland
 73. Portugal
     * Galveias by José Luis Peixoto 
+    * Blindness: Ensaio sobre a cegueira by José Saramago 
 74. Romania
 75. Russia
 76. San Marino
@@ -88,6 +92,7 @@
 78. Slovakia
 79. Slovenia
 80. Spain
+    * Don Quijote de la Mancha
 81. Sweden
 82. Switzerland
 83. Turkey
@@ -155,6 +160,8 @@
 
 ### Asia
 142. Afghanistan
+    * The Kite Runner
+    * A Thousand Splendid Suns
 143. Armenia
 144. Azerbaijan
 145. Bahrain
@@ -168,6 +175,7 @@
 153. India
 154. Indonesia
 155. Iran
+     * Persepolis, a comic book written by an Iranian woman
 156. Iraq
 157. Israel
 158. Japan
@@ -178,6 +186,7 @@
 163. Laos
 164. Lebanon
      * What Makes a Man?: Sex Talk in Beirut and Berlin https://www.amazon.com/What-Makes-Man-Literature-Translation/dp/B01D94AJQI (one author is German, the other Lebanese) 
+     * An Uncessary Woman
 165. Malaysia
 166. Maldives
 167. Mongolia
