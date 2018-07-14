@@ -17,6 +17,7 @@ Where possible I've recorded the title in its original language. There are some 
 5. Belize
 6. Canada
    * Indian Horse by Richard Wagamese (First Nations) 
+   * A House in the Sky by Amanda Lindhout
 7. Costa Rica
 8. Cuba
 9. Dominica
@@ -59,6 +60,7 @@ Where possible I've recorded the title in its original language. There are some 
 32. Peru
 33. Suriname
 34. Uruguay
+    * Cuentos de la selva by Horacio Quiroga 
 35. Venezuela
 
 ### Europe
@@ -83,6 +85,7 @@ Where possible I've recorded the title in its original language. There are some 
 50. Finland
 51. France
     * The Little Prince / Le petit prince 
+    * Murder in the Marais (NOTE: American author, but takes place in France) 
 52. Georgia
 53. Germany
 54. Greece
@@ -96,6 +99,7 @@ Where possible I've recorded the title in its original language. There are some 
 61. Latvia
 62. Liechtenstein
 63. Lithuania
+    * Anything by Rita Sepetys (American-born daughter of Lithuanian refugees) 
 64. Luxembourg
 65. Macedonia (FYROM)
 66. Malta
@@ -116,6 +120,7 @@ Where possible I've recorded the title in its original language. There are some 
 79. Slovenia
 80. Spain
     * Don Quijote de la Mancha
+    * The Shadow of the Wind by Carlos Ruiz Zafón (from Catalonia--the NYT describes it as ""Gabriel García Márquez meets Umberto Eco meets Jorge Luis Borges for a sprawling magic show.") 
 81. Sweden
 82. Switzerland
 83. Turkey
@@ -140,6 +145,7 @@ Where possible I've recorded the title in its original language. There are some 
 100. Cote d'Ivoire
 101. Djibouti
 102. Egypt
+     * The Yacoubian Building
 103. Equatorial Guinea
 104. Eritrea
 105. Eswatini (formerly Swaziland)
@@ -164,6 +170,7 @@ Where possible I've recorded the title in its original language. There are some 
 123. Namibia
 124. Niger
 125. Nigeria
+     * Anything by Chimamanda Ngozi Adichie
 126. Rwanda
 127. Sao Tome and Principe
 128. Senegal
@@ -195,9 +202,18 @@ Where possible I've recorded the title in its original language. There are some 
      * First They Killed My Father: A Daughter of Cambodia Remembers by Loung Ung
      * Survivor: The Triumph of an Ordinary Man in the Khmer Rouge Genocide, written by Chum Mey. He's one of the two living survivors of the Khmer Rouge Genocide. The person who recommended this book got to meet him at the s21 museum in Cambodia! 
 150. China
+     * Do Not Say We Have Nothing by Madeleine Thien (Canadian-born daughter of Malaysian Chinese father and Hong Kong Chinese mother). 
 151. Cyprus
 152. Georgia
 153. India
+     * Anything by Jhumpa Lahiri
+     * Anything by Vikram Seth
+     * Midnight's Children by Salman Rushdie
+     * Historical fiction on the Mughal Empire: 
+        * The Twentieth Wife (part 1) 
+        * The Feast of Roses (part 2) 
+        * Shadow Princess by Indu Sundaresan 
+     * The God of Small Things by Arundhati Roy
 154. Indonesia
 155. Iran
      * Persepolis, a comic book written by an Iranian woman
@@ -234,6 +250,7 @@ Where possible I've recorded the title in its original language. There are some 
 184. Thailand
 185. Timor-Leste
 186. Turkey
+     * Anything by Orhan Pamuk
 187. Turkmenistan
 188. United Arab Emirates (UAE)
 189. Uzbekistan
