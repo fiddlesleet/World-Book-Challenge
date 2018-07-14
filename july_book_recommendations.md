@@ -26,9 +26,9 @@ Where possible I've recorded the title in its original language. There are some 
    * *Ten Days That Shook the World* by John Reed, a progressive journalist from US finds himself in the middle of 1917 October Revolution
 1. Antigua and Barbuda
 1. Bahamas
-4. Barbados
-5. Belize
-6. Canada
+1. Barbados
+1. Belize
+1. Canada
    * *Indian Horse* by Richard Wagamese (First Nations) 
    * *A House in the Sky* by Amanda Lindhout
    * *A National Crime: The Canadian Government and the Residential School System, 1879 to 1986*, by John S. Milloy https://uofmpress.ca/books/detail/a-national-crime
