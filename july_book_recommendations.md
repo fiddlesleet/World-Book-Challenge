@@ -92,51 +92,51 @@ Where possible I've recorded the title in its original language. There are some 
 1. Belarus
     * *Voices from Chernobyl* by Svetlana Alexievich (Nobel Laureate) 
     * *War’s Unwomanly Face* by Svetlana Alexievich (Nobel Laureate) 
-42. Belgium
-43. Bosnia and Herzegovina
-44. Bulgaria
-45. Croatia
+1. Belgium
+1. Bosnia and Herzegovina
+1. Bulgaria
+1. Croatia
     * *Croatian Tales of Long Ago*, https://en.wikipedia.org/wiki/Croatian_Tales_of_Long_Ago
     * Anything by Ivana Brlic Mazuranic
     * Anything by Ivo Andrić--a fair bit of his work has been translated into English
-46. Cyprus
-47. Czech Republic
+1. Cyprus
+1. Czech Republic
     * *To the Castle and Back* by Vaclav Havel, a playwright by trade who became the first president of Czechoslovakia after communism. 
-48. Denmark
+1. Denmark
     * *The Year of Living Danishly* by Helen Russell, from a British author on her experience living in rural Jutland
-49. Estonia
-50. Finland
+1. Estonia
+1. Finland
     * *The Nordic Theory of Everything: In Search of a Better Life* by Anu Partanen (3 votes) 
-51. France
+1. France
     * *The Little Prince / Le petit prince*
     * *The End of Eddy* by Edouard Louis
     * Take place in France, by American authors: 
        * *Murder in the Marais* 
        * *The Only Road in Paris* by Elaine Sciolino 
-52. Georgia
-53. Germany
-54. Greece
+1. Georgia
+1. Germany
+1. Greece
     * *The House by the River* by Lena Manta
-55. Hungary
-56. Iceland
-57. Ireland
-58. Italy
-59. Kazakhstan
-60. Kosovo
-61. Latvia
-62. Liechtenstein
-63. Lithuania
+1. Hungary
+1. Iceland
+1. Ireland
+1. Italy
+1. Kazakhstan
+1. Kosovo
+1. Latvia
+1. Liechtenstein
+1. Lithuania
     * Anything by Rita Sepetys (American-born daughter of Lithuanian refugees) 
-64. Luxembourg
-65. Macedonia (FYROM)
-66. Malta
-67. Moldova
-68. Monaco
-69. Montenegro
-70. Netherlands
-71. Norway
-72. Poland
-73. Portugal
+1. Luxembourg
+1. Macedonia (FYROM)
+1. Malta
+1. Moldova
+1. Monaco
+1. Montenegro
+1. Netherlands
+1. Norway
+1. Poland
+1. Portugal
     * *Galveias* by José Luis Peixoto 
     * *Blindness / Ensaio sobre a cegueira* by José Saramago (2 votes) 
     * *The Gospel According to Jesus Christ* by José Saramago 
@@ -149,93 +149,93 @@ Where possible I've recorded the title in its original language. There are some 
 80. Spain
     * *Don Quijote* de la Mancha
     * *The Shadow of the Wind* by Carlos Ruiz Zafón (from Catalonia--the NYT describes it as ""Gabriel García Márquez meets Umberto Eco meets Jorge Luis Borges for a sprawling magic show.") 
-81. Sweden
-82. Switzerland
-83. Turkey
-84. Ukraine
-85. United Kingdom
-86. Vatican City
+1. Sweden
+1. Switzerland
+1. Turkey
+1. Ukraine
+1. United Kingdom
+1. Vatican City
 
 ## Africa <a id="af"></a>
-87. Algeria
-88. Angola
-89. Benin
-90. Botswana
-91. Burkina Faso
-92. Burundi
-93. Cabo Verde
-94. Cameroon
-95. Central African Republic (CAR)
-96. Chad
-97. Comoros
-98. Democratic Republic of the Congo
-99. Republic of the Congo
-100. Cote d'Ivoire
-101. Djibouti
-102. Egypt
+1. Algeria
+1. Angola
+1. Benin
+1. Botswana
+1. Burkina Faso
+1. Burundi
+1. Cabo Verde
+1. Cameroon
+1. Central African Republic (CAR)
+1. Chad
+1. Comoros
+1. Democratic Republic of the Congo
+1. Republic of the Congo
+1. Cote d'Ivoire
+1. Djibouti
+1. Egypt
      * *The Yacoubian Building* by Alaa-Al-Aswany
-103. Equatorial Guinea
-104. Eritrea
-105. Eswatini (formerly Swaziland)
-106. Ethiopia
-107. Gabon
-108. Gambia
-109. Ghana
-110. Guinea
-111. Guinea-Bissau
-112. Kenya
-113. Lesotho
-114. Liberia
-115. Libya
-116. Madagascar
-117. Malawi
-118. Mali
-119. Mauritania
-120. Mauritius
-121. Morocco
+1. Equatorial Guinea
+1. Eritrea
+1. Eswatini (formerly Swaziland)
+1. Ethiopia
+1. Gabon
+1. Gambia
+1. Ghana
+1. Guinea
+1. Guinea-Bissau
+1. Kenya
+1. Lesotho
+1. Liberia
+1. Libya
+1. Madagascar
+1. Malawi
+1. Mali
+1. Mauritania
+1. Mauritius
+1. Morocco
      * Enfant de Sable by Tahar Ben Jelloun
-122. Mozambique
-123. Namibia
-124. Niger
-125. Nigeria
+1. Mozambique
+1. Namibia
+1. Niger
+1. Nigeria
      * Anything by Chimamanda Ngozi Adichie
      * *Things Fall Apart* by Chinua Achebe
-126. Rwanda
-127. Sao Tome and Principe
-128. Senegal
-129. Seychelles
-130. Sierra Leone
-131. Somalia
-132. South Africa
-133. South Sudan
-134. Sudan
-135. Swaziland (renamed to Eswatini)
-136. Tanzania
-137. Togo
-138. Tunisia
-139. Uganda
-140. Zambia
-141. Zimbabwe
+1. Rwanda
+1. Sao Tome and Principe
+1. Senegal
+1. Seychelles
+1. Sierra Leone
+1. Somalia
+1. South Africa
+1. South Sudan
+1. Sudan
+1. Swaziland (renamed to Eswatini)
+1. Tanzania
+1. Togo
+1. Tunisia
+1. Uganda
+1. Zambia
+1. Zimbabwe
 
 ## Asia <a id="as"></a>
-142. Afghanistan
+1. Afghanistan
     * *The Kite Runner*
     * *A Thousand Splendid Suns*
-143. Armenia
-144. Azerbaijan
-145. Bahrain
-146. Bangladesh
-147. Bhutan
-148. Brunei
-149. Cambodia
+1. Armenia
+1. Azerbaijan
+1. Bahrain
+1. Bangladesh
+1. Bhutan
+1. Brunei
+1. Cambodia
      * *First They Killed My Father: A Daughter of Cambodia Remembers* by Loung Ung
      * *Survivor: The Triumph of an Ordinary Man in the Khmer Rouge Genocide*, written by Chum Mey. He's one of the two living survivors of the Khmer Rouge Genocide. The person who recommended this book got to meet him at the s21 museum in Cambodia! 
-150. China
+1. China
      * *Do Not Say We Have Nothing* by Madeleine Thien (Canadian-born daughter of Malaysian Chinese father and Hong Kong Chinese mother). 
      * *The Rape of Nanking: The Forgotten Holocaust of World War II* by Iris Chang (American-born daughter of two Taiwanese immigrants)  
-151. Cyprus
-152. Georgia
-153. India
+1. Cyprus
+1. Georgia
+1. India
      * Anything by Jhumpa Lahiri
      * Anything by Vikram Seth
      * *Midnight's Children* by Salman Rushdie
@@ -244,69 +244,69 @@ Where possible I've recorded the title in its original language. There are some 
         * The Feast of Roses (part 2) 
         * Shadow Princess by Indu Sundaresan 
      * *The God of Small Things* by Arundhati Roy (2 votes) 
-154. Indonesia
-155. Iran
+1. Indonesia
+1. Iran
      * *Persepolis*, a comic book written by an Iranian woman
-156. Iraq
-157. Israel
-158. Japan
-159. Jordan
-160. Kazakhstan
-161. Kuwait
-162. Kyrgyzstan
-163. Laos
-164. Lebanon
+1. Iraq
+1. Israel
+1. Japan
+1. Jordan
+1. Kazakhstan
+1. Kuwait
+1. Kyrgyzstan
+1. Laos
+1. Lebanon
      * *What Makes a Man?: Sex Talk in Beirut and Berlin* https://www.amazon.com/What-Makes-Man-Literature-Translation/dp/B01D94AJQI (one author is German, the other Lebanese) 
      * *An Uncessary Woman*
-165. Malaysia
-166. Maldives
-167. Mongolia
-168. Myanmar (formerly Burma)
-169. Nepal
-170. North Korea
-171. Oman
-172. Pakistan
-173. Palestine*  
-174. Philippines
-175. Qatar
-176. Russia
-177. Saudi Arabia
-178. Singapore
-179. South Korea
+1. Malaysia
+1. Maldives
+1. Mongolia
+1. Myanmar (formerly Burma)
+1. Nepal
+1. North Korea
+1. Oman
+1. Pakistan
+1. Palestine*  
+1. Philippines
+1. Qatar
+1. Russia
+1. Saudi Arabia
+1. Singapore
+1. South Korea
      * *The Vegetarian* by Han Kang
-180. Sri Lanka
-181. Syria
-182. Taiwan
-183. Tajikistan
-184. Thailand
-185. Timor-Leste
-186. Turkey
+1. Sri Lanka
+1. Syria
+1. Taiwan
+1. Tajikistan
+1. Thailand
+1. Timor-Leste
+1. Turkey
      * Anything by Orhan Pamuk
      * *Memed, My Hawk* by Yaşar Kemal
-187. Turkmenistan
-188. United Arab Emirates (UAE)
-189. Uzbekistan
-190. Vietnam
+1. Turkmenistan
+1. United Arab Emirates (UAE)
+1. Uzbekistan
+1. Vietnam
      * Anything by Thanhha Lai (children's author) 
      * *The Sympathizer* by Viet Thanh Nguyen (2016 Pulitzer Prize winner // 2017 MacArthur Genius Grant winner) (2 votes)
      * *Stealing Buddha's Dinner*, by Bich Minh Nguyen
 191. Yemen
 
 ## Oceania <a id="oc"></a>
-192. Australia
+1. Australia
      * *The Book Thief* by Markus Zusak
      * *Storm Boy* by Colin Thiele (children's) 
      * *Hitler's Daughter* by Jackie French (children's)
-193. Fiji
-194. Kiribati
-195. Marshall Islands
-196. Micronesia
-197. Nauru
-198. New Zealand
-199. Palau
-200. Papua New Guinea
-201. Samoa
-202. Solomon Islands
-203. Tonga
-204. Tuvalu
-205. Vanuatu
+1. Fiji
+1. Kiribati
+1. Marshall Islands
+1. Micronesia
+1. Nauru
+1. New Zealand
+1. Palau
+1. Papua New Guinea
+1. Samoa
+1. Solomon Islands
+1. Tonga
+1. Tuvalu
+1. Vanuatu
