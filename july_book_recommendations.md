@@ -3,13 +3,14 @@ Where possible I've recorded the title in its original language. There are some 
 
 ### North America
 1. United States
-   * Native American Authors: 
-     * Louise Erdrich
+   * Books from the Native American "that don't make us out to be 'savages'": 
+     * Louise Erdrich, especially her book Round House
      * Linda Hogan
      * James Welch
      * Susan Power
      * Joy Harjo
      * Leonard Pelitier
+     * See Birchbark Books and Native Arts for "a wonderfully curated selection that weeds out a lot of the racist or ill-informing books". 
 2. Antigua and Barbuda
 3. Bahamas
 4. Barbados
@@ -41,6 +42,12 @@ Where possible I've recorded the title in its original language. There are some 
     * Todos los fuegos el fuego 
 25. Bolivia
 26. Brazil
+    * Classic Literature: 
+       * Memórias Póstumas de Brás Cubas by Machado de Assis 
+       * Dom Casmurro by Machado de Assis 
+    * Modern Literature: 
+       * Cinzas do Norte by Milton Hatoum (2005) 
+       * The Alchemist by Paulo Cuehlo
 27. Chile
     * Pablo Neruda's poems (Nobel Laureate) 
     * Ten Women / Diez mujeres by Marcela Serrano 
@@ -186,6 +193,7 @@ Where possible I've recorded the title in its original language. There are some 
 148. Brunei
 149. Cambodia
      * First They Killed My Father: A Daughter of Cambodia Remembers by Loung Ung
+     * Survivor: The Triumph of an Ordinary Man in the Khmer Rouge Genocide, written by Chum Mey. He's one of the two living survivors of the Khmer Rouge Genocide. The person who recommended this book got to meet him at the s21 museum in Cambodia! 
 150. China
 151. Cyprus
 152. Georgia
