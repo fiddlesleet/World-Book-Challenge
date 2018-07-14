@@ -151,53 +151,69 @@
 141. Zimbabwe
 
 ### Asia
-Afghanistan
-Armenia
-Azerbaijan
-Bahrain
-Bangladesh
-Bhutan
-Brunei
-Cambodia
-China
-Cyprus
-Georgia
-India
-Indonesia
-Iran
-Iraq
-Israel
-Japan
-Jordan
-Kazakhstan
-Kuwait
-Kyrgyzstan
-Laos
-Lebanon
-Malaysia
-Maldives
-Mongolia
-Myanmar (formerly Burma)
-Nepal
-North Korea
-Oman
-Pakistan
-Palestine
-Philippines
-Qatar
-Russia
-Saudi Arabia
-Singapore
-South Korea
-Sri Lanka
-Syria
-Taiwan
-Tajikistan
-Thailand
-Timor-Leste
-Turkey
-Turkmenistan
-United Arab Emirates (UAE)
-Uzbekistan
-Vietnam
-Yemen
+142. Afghanistan
+143. Armenia
+144. Azerbaijan
+145. Bahrain
+146. Bangladesh
+147. Bhutan
+148. Brunei
+149. Cambodia
+150. China
+151. Cyprus
+152. Georgia
+153. India
+154. Indonesia
+155. Iran
+156. Iraq
+157. Israel
+158. Japan
+159. Jordan
+160. Kazakhstan
+161. Kuwait
+162. Kyrgyzstan
+163. Laos
+164. Lebanon
+165. Malaysia
+166. Maldives
+167. Mongolia
+168. Myanmar (formerly Burma)
+169. Nepal
+170. North Korea
+171. Oman
+172. Pakistan
+173. Palestine*  
+174. Philippines
+175. Qatar
+176. Russia
+177. Saudi Arabia
+178. Singapore
+179. South Korea
+180. Sri Lanka
+181. Syria
+182. Taiwan
+183. Tajikistan
+184. Thailand
+185. Timor-Leste
+186. Turkey
+187. Turkmenistan
+188. United Arab Emirates (UAE)
+189. Uzbekistan
+190. Vietnam
+191. Yemen
+
+### Oceania 
+192. Australia
+193. Fiji
+194. Kiribati
+195. Marshall Islands
+196. Micronesia
+197. Nauru
+198. New Zealand
+199. Palau
+200. Papua New Guinea
+201. Samoa
+202. Solomon Islands
+203. Tonga
+204. Tuvalu
+205. Vanuatu
