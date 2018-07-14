@@ -196,7 +196,7 @@ There are 205 countries on this list, though, and I'm just getting started filli
 1. Mauritania
 1. Mauritius
 1. Morocco
-   * Enfant de Sable by Tahar Ben Jelloun
+   * *Enfant de Sable* by Tahar Ben Jelloun
 1. Mozambique
 1. Namibia
 1. Niger
