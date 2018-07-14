@@ -1,5 +1,5 @@
 # World Book Challenge
-Where possible I've recorded the title in its original language. There are some expressions that could never be translated. 
+43 people chimed in with recommendations for tales from 36 countries. Where possible I've recorded the title in both English and its original language. If you can read the book in its original language, go for it! There are some expressions that could never be translated. 
 
 ## Jump to Continent
 ### [North America](#na)
