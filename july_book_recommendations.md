@@ -2,12 +2,12 @@
 Where possible I've recorded the title in its original language. There are some expressions that could never be translated. 
 
 ## Jump to Continent
-[North America]
-South America
-Europe
-Africa
-Asia
-Oceania
+* [North America][North America]
+* South America
+* Europe
+* Africa
+* Asia
+* Oceania
 
 ## North America
 1. United States
