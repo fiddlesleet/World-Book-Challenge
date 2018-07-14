@@ -43,7 +43,7 @@ Where possible I've recorded the title in its original language. There are some 
 1. Grenada
 1. Guatemala
 1. Haiti
-    * *Gouverneurs de la Rosée* by Jacques Roumain
+   * *Gouverneurs de la Rosée* by Jacques Roumain
 1. Honduras
 1. Jamaica
 1. Mexico
@@ -56,31 +56,31 @@ Where possible I've recorded the title in its original language. There are some 
 
 ## South America <a id="sa"></a>
 1. Argentina
-    * *All Fires the Fire / Todos los fuegos* el fuego by Julio Cortázar
+   * *All Fires the Fire / Todos los fuegos* el fuego by Julio Cortázar
 1. Bolivia
-    * *Marching Powder* by Rusty Young (Australian author), on the true story of a British-Tanzanian man incarcerated in Bolivia's San Pedro prison
+   * *Marching Powder* by Rusty Young (Australian author), on the true story of a British-Tanzanian man incarcerated in Bolivia's San Pedro prison
 1. Brazil
-    * Classic Literature: 
+   * Classic Literature: 
        * *Memórias Póstumas de Brás Cubas* by Machado de Assis 
        * *Dom Casmurro* by Machado de Assis 
-    * Modern Literature: 
+   * Modern Literature: 
        * *Cinzas do Norte* by Milton Hatoum (2005) 
        * *The Alchemist* by Paulo Cuehlo
 1. Chile
-    * Pablo Neruda's poems (Nobel Laureate) 
-    * *Ten Women / Diez mujeres* by Marcela Serrano 
-    * Anything by Isabel Allende (magical realism) 
+   * Pablo Neruda's poems (Nobel Laureate) 
+   * *Ten Women / Diez mujeres* by Marcela Serrano 
+   * Anything by Isabel Allende (magical realism) 
 1. Colombia
-    * *100 Years of Solitude/Cien años de soledad* by Gabriel García Márquez (Nobel Laureate) 
+   * *100 Years of Solitude/Cien años de soledad* by Gabriel García Márquez (Nobel Laureate) 
 1. Ecuador
 1. Guyana
 1. Paraguay
 1. Peru
-    * *Death in the Andes* by Mario Vargas Llosa (Nobel Laureate) 
+   * *Death in the Andes* by Mario Vargas Llosa (Nobel Laureate) 
 1. Suriname
 1. Uruguay
-    * *Jungle Tales/Cuentos de la selva* by Horacio Quiroga 
-    * *The Open Veins of Latin America/Las venas abiertas de América Latina*, by Eduardo Galeano
+   * *Jungle Tales/Cuentos de la selva* by Horacio Quiroga 
+   * *The Open Veins of Latin America/Las venas abiertas de América Latina*, by Eduardo Galeano
 1. Venezuela
 
 ## Europe <a id="e"></a>
@@ -90,33 +90,34 @@ Where possible I've recorded the title in its original language. There are some 
 1. Austria
 1. Azerbaijan
 1. Belarus
-    * *Voices from Chernobyl* by Svetlana Alexievich (Nobel Laureate) 
-    * *War’s Unwomanly Face* by Svetlana Alexievich (Nobel Laureate) 
+   * *Voices from Chernobyl* by Svetlana Alexievich (Nobel Laureate) 
+   * *War’s Unwomanly Face* by Svetlana Alexievich (Nobel Laureate) 
 1. Belgium
 1. Bosnia and Herzegovina
 1. Bulgaria
+   * Under the Yoke by Ivan Vazov
 1. Croatia
-    * *Croatian Tales of Long Ago*, https://en.wikipedia.org/wiki/Croatian_Tales_of_Long_Ago
-    * Anything by Ivana Brlic Mazuranic
-    * Anything by Ivo Andrić--a fair bit of his work has been translated into English
+   * *Croatian Tales of Long Ago*, https://en.wikipedia.org/wiki/Croatian_Tales_of_Long_Ago
+   * Anything by Ivana Brlic Mazuranic
+   * Anything by Ivo Andrić--a fair bit of his work has been translated into English
 1. Cyprus
 1. Czech Republic
-    * *To the Castle and Back* by Vaclav Havel, a playwright by trade who became the first president of Czechoslovakia after communism. 
+   * *To the Castle and Back* by Vaclav Havel, a playwright by trade who became the first president of Czechoslovakia after communism. 
 1. Denmark
-    * *The Year of Living Danishly* by Helen Russell, from a British author on her experience living in rural Jutland
+   * *The Year of Living Danishly* by Helen Russell, from a British author on her experience living in rural Jutland
 1. Estonia
 1. Finland
-    * *The Nordic Theory of Everything: In Search of a Better Life* by Anu Partanen (3 votes) 
+   * *The Nordic Theory of Everything: In Search of a Better Life* by Anu Partanen (3 votes) 
 1. France
-    * *The Little Prince / Le petit prince*
-    * *The End of Eddy* by Edouard Louis
-    * Take place in France, by American authors: 
+   * *The Little Prince / Le petit prince*
+   * *The End of Eddy* by Edouard Louis
+   * Take place in France, by American authors: 
        * *Murder in the Marais* 
        * *The Only Road in Paris* by Elaine Sciolino 
 1. Georgia
 1. Germany
 1. Greece
-    * *The House by the River* by Lena Manta
+   * *The House by the River* by Lena Manta
 1. Hungary
 1. Iceland
 1. Ireland
@@ -126,7 +127,7 @@ Where possible I've recorded the title in its original language. There are some 
 1. Latvia
 1. Liechtenstein
 1. Lithuania
-    * Anything by Rita Sepetys (American-born daughter of Lithuanian refugees) 
+   * Anything by Rita Sepetys (American-born daughter of Lithuanian refugees) 
 1. Luxembourg
 1. Macedonia (FYROM)
 1. Malta
@@ -137,9 +138,9 @@ Where possible I've recorded the title in its original language. There are some 
 1. Norway
 1. Poland
 1. Portugal
-    * *Galveias* by José Luis Peixoto 
-    * *Blindness / Ensaio sobre a cegueira* by José Saramago (2 votes) 
-    * *The Gospel According to Jesus Christ* by José Saramago 
+   * *Galveias* by José Luis Peixoto 
+   * *Blindness / Ensaio sobre a cegueira* by José Saramago (2 votes) 
+   * *The Gospel According to Jesus Christ* by José Saramago 
 74. Romania
 75. Russia
 76. San Marino
@@ -173,7 +174,7 @@ Where possible I've recorded the title in its original language. There are some 
 1. Cote d'Ivoire
 1. Djibouti
 1. Egypt
-     * *The Yacoubian Building* by Alaa-Al-Aswany
+   * *The Yacoubian Building* by Alaa-Al-Aswany
 1. Equatorial Guinea
 1. Eritrea
 1. Eswatini (formerly Swaziland)
@@ -193,13 +194,13 @@ Where possible I've recorded the title in its original language. There are some 
 1. Mauritania
 1. Mauritius
 1. Morocco
-     * Enfant de Sable by Tahar Ben Jelloun
+   * Enfant de Sable by Tahar Ben Jelloun
 1. Mozambique
 1. Namibia
 1. Niger
 1. Nigeria
-     * Anything by Chimamanda Ngozi Adichie
-     * *Things Fall Apart* by Chinua Achebe
+   * Anything by Chimamanda Ngozi Adichie
+   * *Things Fall Apart* by Chinua Achebe
 1. Rwanda
 1. Sao Tome and Principe
 1. Senegal
@@ -219,8 +220,8 @@ Where possible I've recorded the title in its original language. There are some 
 
 ## Asia <a id="as"></a>
 1. Afghanistan
-    * *The Kite Runner*
-    * *A Thousand Splendid Suns*
+   * *The Kite Runner*
+   * *A Thousand Splendid Suns*
 1. Armenia
 1. Azerbaijan
 1. Bahrain
@@ -228,25 +229,25 @@ Where possible I've recorded the title in its original language. There are some 
 1. Bhutan
 1. Brunei
 1. Cambodia
-     * *First They Killed My Father: A Daughter of Cambodia Remembers* by Loung Ung
-     * *Survivor: The Triumph of an Ordinary Man in the Khmer Rouge Genocide*, written by Chum Mey. He's one of the two living survivors of the Khmer Rouge Genocide. The person who recommended this book got to meet him at the s21 museum in Cambodia! 
+   * *First They Killed My Father: A Daughter of Cambodia Remembers* by Loung Ung
+   * *Survivor: The Triumph of an Ordinary Man in the Khmer Rouge Genocide*, written by Chum Mey. He's one of the two living survivors of the Khmer Rouge Genocide. The person who recommended this book got to meet him at the s21 museum in Cambodia! 
 1. China
-     * *Do Not Say We Have Nothing* by Madeleine Thien (Canadian-born daughter of Malaysian Chinese father and Hong Kong Chinese mother). 
-     * *The Rape of Nanking: The Forgotten Holocaust of World War II* by Iris Chang (American-born daughter of two Taiwanese immigrants)  
+   * *Do Not Say We Have Nothing* by Madeleine Thien (Canadian-born daughter of Malaysian Chinese father and Hong Kong Chinese mother). 
+   * *The Rape of Nanking: The Forgotten Holocaust of World War II* by Iris Chang (American-born daughter of two Taiwanese immigrants)  
 1. Cyprus
 1. Georgia
 1. India
-     * Anything by Jhumpa Lahiri
-     * Anything by Vikram Seth
-     * *Midnight's Children* by Salman Rushdie
-     * Historical fiction on the Mughal Empire: 
+   * Anything by Jhumpa Lahiri
+   * Anything by Vikram Seth
+   * *Midnight's Children* by Salman Rushdie
+   * Historical fiction on the Mughal Empire: 
         * The Twentieth Wife (part 1) 
         * The Feast of Roses (part 2) 
         * Shadow Princess by Indu Sundaresan 
-     * *The God of Small Things* by Arundhati Roy (2 votes) 
+   * *The God of Small Things* by Arundhati Roy (2 votes) 
 1. Indonesia
 1. Iran
-     * *Persepolis*, a comic book written by an Iranian woman
+   * *Persepolis*, a comic book written by an Iranian woman
 1. Iraq
 1. Israel
 1. Japan
@@ -256,8 +257,8 @@ Where possible I've recorded the title in its original language. There are some 
 1. Kyrgyzstan
 1. Laos
 1. Lebanon
-     * *What Makes a Man?: Sex Talk in Beirut and Berlin* https://www.amazon.com/What-Makes-Man-Literature-Translation/dp/B01D94AJQI (one author is German, the other Lebanese) 
-     * *An Uncessary Woman*
+   * *What Makes a Man?: Sex Talk in Beirut and Berlin* https://www.amazon.com/What-Makes-Man-Literature-Translation/dp/B01D94AJQI (one author is German, the other Lebanese) 
+   * *An Uncessary Woman*
 1. Malaysia
 1. Maldives
 1. Mongolia
@@ -273,7 +274,7 @@ Where possible I've recorded the title in its original language. There are some 
 1. Saudi Arabia
 1. Singapore
 1. South Korea
-     * *The Vegetarian* by Han Kang
+   * *The Vegetarian* by Han Kang
 1. Sri Lanka
 1. Syria
 1. Taiwan
@@ -281,22 +282,22 @@ Where possible I've recorded the title in its original language. There are some 
 1. Thailand
 1. Timor-Leste
 1. Turkey
-     * Anything by Orhan Pamuk
-     * *Memed, My Hawk* by Yaşar Kemal
+   * Anything by Orhan Pamuk
+   * *Memed, My Hawk* by Yaşar Kemal
 1. Turkmenistan
 1. United Arab Emirates (UAE)
 1. Uzbekistan
 1. Vietnam
-     * Anything by Thanhha Lai (children's author) 
-     * *The Sympathizer* by Viet Thanh Nguyen (2016 Pulitzer Prize winner // 2017 MacArthur Genius Grant winner) (2 votes)
-     * *Stealing Buddha's Dinner*, by Bich Minh Nguyen
+   * Anything by Thanhha Lai (children's author) 
+   * *The Sympathizer* by Viet Thanh Nguyen (2016 Pulitzer Prize winner // 2017 MacArthur Genius Grant winner) (2 votes)
+   * *Stealing Buddha's Dinner*, by Bich Minh Nguyen
 191. Yemen
 
 ## Oceania <a id="oc"></a>
 1. Australia
-     * *The Book Thief* by Markus Zusak
-     * *Storm Boy* by Colin Thiele (children's) 
-     * *Hitler's Daughter* by Jackie French (children's)
+   * *The Book Thief* by Markus Zusak
+   * *Storm Boy* by Colin Thiele (children's) 
+   * *Hitler's Daughter* by Jackie French (children's)
 1. Fiji
 1. Kiribati
 1. Marshall Islands
