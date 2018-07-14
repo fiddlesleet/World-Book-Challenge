@@ -1,7 +1,7 @@
 # World Book Challenge
 July 2018: 43 people chimed in with recommendations for tales from 36 countries. Where possible I've recorded the title in both English and its original language. If you can read the book in its original language, go for it! There are some expressions that could never be translated. 
 
-There are 205 countries on this list, though, and I'm just getting started filling it in. I guess that means I need to travel more, make more friends, reach out to more people for recommendations, and if all else fails, Google more. =)
+There are 205 countries on this list, though, and I'm just getting started filling it in. I'll take that to mean I need to travel more, make more friends, reach out to more people for recommendations, and if all else fails, Google more. =)
 
 ## Jump to Continent
 ### [North America](#na)
