@@ -94,61 +94,61 @@
 86. Vatican City
 
 ### Africa
-Algeria
-Angola
-Benin
-Botswana
-Burkina Faso
-Burundi
-Cabo Verde
-Cameroon
-Central African Republic (CAR)
-Chad
-Comoros
-Democratic Republic of the Congo
-Republic of the Congo
-Cote d'Ivoire
-Djibouti
-Egypt
-Equatorial Guinea
-Eritrea
-Eswatini (formerly Swaziland)
-Ethiopia
-Gabon
-Gambia
-Ghana
-Guinea
-Guinea-Bissau
-Kenya
-Lesotho
-Liberia
-Libya
-Madagascar
-Malawi
-Mali
-Mauritania
-Mauritius
-Morocco
-Mozambique
-Namibia
-Niger
-Nigeria
-Rwanda
-Sao Tome and Principe
-Senegal
-Seychelles
-Sierra Leone
-Somalia
-South Africa
-South Sudan
-Sudan
-Swaziland (renamed to Eswatini)
-Tanzania
-Togo
-Tunisia
-Uganda
-Zambia
-Zimbabwe
+87. Algeria
+88. Angola
+89. Benin
+90. Botswana
+91. Burkina Faso
+92. Burundi
+93. Cabo Verde
+94. Cameroon
+95. Central African Republic (CAR)
+96. Chad
+97. Comoros
+98. Democratic Republic of the Congo
+99. Republic of the Congo
+100. Cote d'Ivoire
+101. Djibouti
+102. Egypt
+103. Equatorial Guinea
+104. Eritrea
+105. Eswatini (formerly Swaziland)
+106. Ethiopia
+107. Gabon
+108. Gambia
+109. Ghana
+110. Guinea
+111. Guinea-Bissau
+112. Kenya
+113. Lesotho
+114. Liberia
+115. Libya
+116. Madagascar
+117. Malawi
+118. Mali
+119. Mauritania
+120. Mauritius
+121. Morocco
+122. Mozambique
+123. Namibia
+124. Niger
+125. Nigeria
+126. Rwanda
+127. Sao Tome and Principe
+128. Senegal
+129. Seychelles
+130. Sierra Leone
+131. Somalia
+132. South Africa
+133. South Sudan
+134. Sudan
+135. Swaziland (renamed to Eswatini)
+136. Tanzania
+137. Togo
+138. Tunisia
+139. Uganda
+140. Zambia
+141. Zimbabwe
 
 ### Asia
 Afghanistan
