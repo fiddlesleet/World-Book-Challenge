@@ -95,6 +95,7 @@ Where possible I've recorded the title in its original language. There are some 
 47. Czech Republic
     * To the Castle and Back by Vaclav Havel, a playwright by trade who became the first president of Czechoslovakia after communism. 
 48. Denmark
+    * The Year of Living Danishly by Helen Russell, from a British author on her experience living in rural Jutland
 49. Estonia
 50. Finland
     * The Nordic Theory of Everything: In Search of a Better Life by Anu Partanen (3 votes) 
@@ -145,7 +146,6 @@ Where possible I've recorded the title in its original language. There are some 
 83. Turkey
 84. Ukraine
 85. United Kingdom
-    * The Year of Living Danishly by Helen Russell 
 86. Vatican City
 
 ### Africa
