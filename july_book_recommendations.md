@@ -21,11 +21,10 @@ There are 205 countries on this list, though, and I'm just getting started filli
      * Joy Harjo
      * Leonard Pelitier
      * See Birchbark Books and Native Arts for "a wonderfully curated selection that weeds out a lot of the racist or ill-informing books". 
-   * Chinese-American experience: 
-      * *The Joy Luck Club* by Amy Tan
-   * Life on our northern border, where next-door neighbors can live in different countries: 
-      * *Border Songs* by Jim Lynch
+   * *The Joy Luck Club* by Amy Tan, about the relationships between Chinese-American women and their Chinese mothers
+   * *Border Songs* by Jim Lynch, about on life on our northern border, where next-door neighbors can live in different countries
    * *Ten Days That Shook the World* by John Reed, a progressive journalist from US finds himself in the middle of 1917 October Revolution
+   * *Barracoon: The Story of the Last "Black Cargo* by Zora Neale Hurston, on her 1927 interviews with Cudjo Lewis, the last living survivor of the Middle Passage
 1. Antigua and Barbuda
 1. Bahamas
 1. Barbados
@@ -274,6 +273,7 @@ There are 205 countries on this list, though, and I'm just getting started filli
 1. Qatar
 1. Russia
 1. Saudi Arabia
+   * *Daring to Drive* by Manal al-Sharif
 1. Singapore
 1. South Korea
    * *The Vegetarian* by Han Kang
