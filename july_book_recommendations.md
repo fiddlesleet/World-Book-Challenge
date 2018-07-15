@@ -146,6 +146,10 @@ In some cases I've recorded the title in both English and its original language.
    * *The Gospel According to Jesus Christ* by José Saramago 
 74. Romania
 75. Russia
+    * *Crime and Punishment* by Dostoevsky
+    * *The Gambler* by Dostoevsky (novella)
+    * *Winter Notes on Summer Impressions* by Dostoevsky, a collection of his letters and essays home to friends on his experience travelling around Western Europe
+    * *Ilf and Petrov's American road trip* by Ilya Ilf, a collection of photos and humerous critiques of American daily life by two Soviet journalists who took a roadtrip across the U.S. in 1935
 76. San Marino
 77. Serbia
 78. Slovakia
