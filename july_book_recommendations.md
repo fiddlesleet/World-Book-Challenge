@@ -149,7 +149,7 @@ In some cases I've recorded the title in both English and its original language.
     * *Crime and Punishment* by Dostoevsky
     * *The Gambler* by Dostoevsky (novella)
     * *Winter Notes on Summer Impressions* by Dostoevsky, a collection of his letters and essays home to friends on his experience travelling around Western Europe
-    * *Ilf and Petrov's American road trip* by Ilya Ilf, a collection of Leica photos and humerous critiques of American daily life by two Soviet journalists who took a roadtrip across the U.S. in 1935
+    * *Ilf and Petrov's American road trip* by Ilya Ilf, a collection of Leica photos and humerous musings on American daily life by two Soviet journalists who took a roadtrip across the U.S. in 1935
 76. San Marino
 77. Serbia
 78. Slovakia
