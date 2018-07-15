@@ -1,5 +1,5 @@
 # World Book Challenge
-July 2018: 44 people chimed in with recommendations for tales from 38 countries. There are 205 countries on this list, though, and I'm just getting started filling it in. I'll take that to mean I need to travel more, make more friends, reach out to more people for recommendations, and if all else fails, Google more. =)
+July 2018: 46 people chimed in with recommendations for tales from 40 countries. There are 205 countries on this list, though, and I'm just getting started filling it in. I'll take that to mean I need to travel more, make more friends, reach out to more people for recommendations, and if all else fails, Google more. =)
 
 In some cases I've recorded the title in both English and its original language. If you can read the book in its original language, go for it! There are some expressions that could never be translated. 
 
@@ -83,6 +83,8 @@ In some cases I've recorded the title in both English and its original language.
    * *Jungle Tales/Cuentos de la selva* by Horacio Quiroga 
    * *The Open Veins of Latin America/Las venas abiertas de América Latina*, by Eduardo Galeano
 1. Venezuela
+   * *Doña Barbara* by Romulo Gallegos
+   * *Las Lanzas Coloradas* by Arturo Uslar Pietri 
 
 ## Europe <a id="e"></a>
 1. Albania
