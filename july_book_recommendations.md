@@ -121,6 +121,7 @@ In some cases I've recorded the title in both English and its original language.
 1. Hungary
 1. Iceland
 1. Ireland
+   * *The Gathering* by Ann Enright
 1. Italy
 1. Kazakhstan
 1. Kosovo
