@@ -13,7 +13,7 @@ In some cases I've recorded the title in both English and its original language.
 
 ## North America <a id="na"></a>
 1. United States
-   * Books from the Native American "that don't make us out to be 'savages'": 
+   * Books from the Native American perspective "that don't make us out to be 'savages'": 
      * Louise Erdrich, especially her book *Round House*
      * Linda Hogan
      * James Welch
